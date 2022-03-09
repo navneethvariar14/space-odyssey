@@ -1833,7 +1833,7 @@ const textNodes = [
   {
     id: 96,
     text: "Identify the name of this Celestial Body:",
-    image: "id_cel.jpg",
+    image: "id_cel.jpeg",
     options: [
       {
         text: "Mars",
@@ -2053,7 +2053,7 @@ const textNodes = [
   {
     id: 108,
     text: "Identify the Nebula shown: ",
-    image: "id_nebula.jpg",
+    image: "id_nebula.jpeg",
     options: [
       {
         text: "Round Nebula",
@@ -2281,7 +2281,7 @@ const textNodes = [
       },
       {
         text: "Diffraction",
-        nextText: 122,
+        nextText: 121,
       },
       {
         text: "Refraction",
@@ -2289,7 +2289,7 @@ const textNodes = [
       },
       {
         text: "Raman Scattering",
-        nextText: 121,
+        nextText: 122,
       },
     ],
   },
@@ -2343,7 +2343,7 @@ const textNodes = [
   {
     id: 125,
     text: "Oh its another clue! Keep this in mind or take a screenshot. It might help you crack the final answer.",
-    image: "Clue2.png",
+    image: "Clue2.jpg",
     options: [
       {
         text: "← Back",
@@ -2358,7 +2358,7 @@ const textNodes = [
   {
     id: 126,
     text: "There's another clue! Keep this in mind or take a screenshot. It might help you crack the final answer.",
-    image: "Clue3.png",
+    image: "Clue3.jpg",
     options: [
       {
         text: "← Back",
@@ -2418,7 +2418,7 @@ const textNodes = [
   {
     id: 130,
     text: "Oh that's a clue! Keep this in mind or take a screenshot. It might help you crack the final answer.",
-    image: "Clue7.png",
+    image: "Clue7.jpg",
     options: [
       {
         text: "← Back",
@@ -2433,7 +2433,7 @@ const textNodes = [
   {
     id: 131,
     text: "Woah it's a clue!! Keep this in mind or take a screenshot. It might help you crack the final answer.",
-    image: "Clue8.png",
+    image: "Clue8.jpg",
     options: [
       {
         text: "← Back",
