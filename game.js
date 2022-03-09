@@ -1282,23 +1282,23 @@ const textNodes = [
   // Nebula 2
   {
     id: 66,
-    text: "It is an expanding, glowing shell of hot gas (plasma) that is cast off towards the end of a low-mass star's life. Despite the name, they have nothing to do with planets, and were so named because early astronomers thought they looked a bit like planets through a small telescope.what is it",
-    image: "Neb2.png",
+    text: "Dark Matter is divided into two types: ",
+    image: "qn04.jpg",
     options: [
       {
-        text: "Planetary Nebula",
+        text: "High and Low Density",
         nextText: 68,
       },
       {
-        text: "Messier objects",
+        text: "Fast and Slow",
         nextText: 67,
       },
       {
-        text: "Comet",
+        text: "Hot and Cold",
         nextText: 67,
       },
       {
-        text: "Asteroid",
+        text: "Dark and Darker",
         nextText: 67,
       },
     ],
@@ -1557,24 +1557,24 @@ const textNodes = [
   // Neutron 3
   {
     id: 81,
-    text: "Do you see that bright light shining. I think it is two neutron star merging together. Do you know the name of this astronomical event?",
-    image: "NS3.jpeg",
+    text: "Which of the following support evidence of dark matter?",
+    image: "qn05.jpg",
     options: [
       {
-        text: "Supernova",
+        text: "High temperatures of X-ray gas in galaxy clusters",
         nextText: 82,
       },
       {
-        text: "Kilonova",
+        text: "Unseen mass component in gravitational lensing",
+        nextText: 82,
+      },
+      {
+        text: "Large scale structure formation",
+        nextText: 82,
+      },
+      {
+        text: "All of these",
         nextText: 83,
-      },
-      {
-        text: "Collapser",
-        nextText: 82,
-      },
-      {
-        text: "None of the above",
-        nextText: 82,
       },
     ],
   },
@@ -1833,7 +1833,7 @@ const textNodes = [
   {
     id: 96,
     text: "Identify the name of this Celestial Body:",
-    image: "id_cel.jpeg",
+    image: "id_cel.jpg",
     options: [
       {
         text: "Mars",
@@ -1942,23 +1942,23 @@ const textNodes = [
   // RS 1
   {
     id: 102,
-    text: "The Ship is now orbiting around a really massive star. The onboard computer says that the star is way cooler than the Sun yet it is more than hundred times the size of Sun. What type of star is this?",
-    image: "RS1.jpg",
+    text: "From approximately how much area of the earth is a lunar eclipse visible?",
+    image: "qn02.jpg",
     options: [
       {
-        text: "Blue Supergiant",
+        text: ">10%",
         nextText: 103,
       },
       {
-        text: "Blue Hypergiant",
+        text: ">25%",
         nextText: 103,
       },
       {
-        text: "Red Supergiant",
+        text: ">50%",
         nextText: 104,
       },
       {
-        text: "Brown Supergiant",
+        text: ">5%",
         nextText: 103,
       },
     ],
@@ -2053,7 +2053,7 @@ const textNodes = [
   {
     id: 108,
     text: "Identify the Nebula shown: ",
-    image: "id_nebula.jpeg",
+    image: "id_nebula.jpg",
     options: [
       {
         text: "Round Nebula",
@@ -2107,23 +2107,23 @@ const textNodes = [
   // RS 4
   {
     id: 111,
-    text: "Which of these is an Orange Supergiant and why are they so?",
-    image: "RS4.jpg",
+    text: "The moon's appearance during a total eclipse has given it this name",
+    image: "qn01.jpg",
     options: [
       {
-        text: "Zeta Ceiphei, because it's a hotter K-type Star",
+        text: "Dark Moon",
         nextText: 113,
       },
       {
-        text: "Mu Ceiphei, because it crosses Chandrashekhar Limit",
+        text: "Blue Moon",
         nextText: 112,
       },
       {
-        text: "Antares, because it is 600 times massive than the Sun",
+        text: "Blood Moon",
         nextText: 112,
       },
       {
-        text: "Sirius, Because it's a bright object in the night sky",
+        text: "Dead Moon",
         nextText: 112,
       },
     ],
@@ -2272,23 +2272,23 @@ const textNodes = [
   // SAG 3
   {
     id: 120,
-    text: "Beep beep !!! The energy X ray flare are increasing . What is causing the  increase in flares ? ",
-    image: "sag3.gif",
+    text: "What gives the moon its distinctive colour during a total lunar eclipse?	",
+    image: "qn03.jpg",
     options: [
       {
-        text: "Dark halo",
+        text: "Rayleigh scattering",
         nextText: 121,
       },
       {
-        text: "Passing asteroid",
+        text: "Diffraction",
         nextText: 122,
       },
       {
-        text: "WIMPS outflux",
+        text: "Refraction",
         nextText: 121,
       },
       {
-        text: "GRB",
+        text: "Raman Scattering",
         nextText: 121,
       },
     ],
@@ -2343,7 +2343,7 @@ const textNodes = [
   {
     id: 125,
     text: "Oh its another clue! Keep this in mind or take a screenshot. It might help you crack the final answer.",
-    image: "Clue2.jpg",
+    image: "Clue2.png",
     options: [
       {
         text: "← Back",
@@ -2358,7 +2358,7 @@ const textNodes = [
   {
     id: 126,
     text: "There's another clue! Keep this in mind or take a screenshot. It might help you crack the final answer.",
-    image: "Clue3.jpg",
+    image: "Clue3.png",
     options: [
       {
         text: "← Back",
@@ -2418,7 +2418,7 @@ const textNodes = [
   {
     id: 130,
     text: "Oh that's a clue! Keep this in mind or take a screenshot. It might help you crack the final answer.",
-    image: "Clue7.jpg",
+    image: "Clue7.png",
     options: [
       {
         text: "← Back",
@@ -2433,7 +2433,7 @@ const textNodes = [
   {
     id: 131,
     text: "Woah it's a clue!! Keep this in mind or take a screenshot. It might help you crack the final answer.",
-    image: "Clue8.jpg",
+    image: "Clue8.png",
     options: [
       {
         text: "← Back",
