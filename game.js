@@ -1287,7 +1287,7 @@ const textNodes = [
     options: [
       {
         text: "High and Low Density",
-        nextText: 68,
+        nextText: 67,
       },
       {
         text: "Fast and Slow",
@@ -1295,7 +1295,7 @@ const textNodes = [
       },
       {
         text: "Hot and Cold",
-        nextText: 67,
+        nextText: 68,
       },
       {
         text: "Dark and Darker",
