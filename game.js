@@ -49,7 +49,7 @@ function selectOption(option) {
 const textNodes = [
   {
     id: 0,
-    text: "Space Odyssey: Online Treasure Hunt \n Fill the form before you start \n https://forms.gle/cfxtTFvN8LG1sC239",
+    text: "Space Odyssey: Online Treasure Hunt \n Fill the form before you start \n https://docs.google.com/forms/d/e/1FAIpQLSdK_H8rOONDy6EMhpItfV_FJAa_0KiItDorKa2v9_UWK-lT1g/viewform?usp=sf_link",
     image: "astral1.png",
     options: [
       {
